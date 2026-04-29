@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "1458209320540966973": 9,
+    "277852017089708032": 8,
+    "1102389009893826651": 8,
+    "341877672160395264": 6
+  },
+  "scoreboardMessageId": "1499064561603580048",
+  "pointSystemMessageId": "1499064918358626355",
+  "prematchPanelMessageId": "1499065580869652681",
+  "livePanelMessageId": "1499065020686798911",
+  "prematch": {
+    "active": false,
+    "home": null,
+    "away": null,
+    "liveScore": null,
+    "closesAt": null,
+    "predictions": {}
+  },
+  "goal": {
+    "active": false,
+    "closesAt": null,
+    "predictions": {},
+    "awarded": {}
+  },
+  "yellow": {
+    "active": true,
+    "closesAt": 1777477341057,
+    "predictions": {
+      "1458209320540966973": {
+        "player1": "da",
+        "player2": "da",
+        "createdAt": 1777477225157
+      }
+    },
+    "awarded": {
+      "1458209320540966973": {
+        "player1": true
+      }
+    }
+  }
+}
